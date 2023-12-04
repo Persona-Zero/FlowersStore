@@ -16,10 +16,8 @@ public interface OrderDao {
     @Select("select * from orders where flower like concat('%',#{searchKey},'%');")
     List<Order> findAll(String searchKey);
 
-
     @Select("select * from orders where fid = #{fid} and uid = #{uid};")
     Order checkIsAdded(Order order);
-
 
     @Update("update orders set state = #{state} where id = #{id};")
     int changeState(Order order);

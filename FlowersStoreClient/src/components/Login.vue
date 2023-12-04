@@ -154,7 +154,7 @@
 
 <style scoped>
   body{
-
+    
   }
   .whole {
     background-image: url("~@/assets/imgs/bghalf-2.jpg") ;

@@ -15,7 +15,6 @@ public interface CartDao {
     @Select("select * from carts;")
     List<Cart> findAll();
 
-
     @Select("select * from carts where fid = #{fid} and uid = #{uid};")
     Cart checkIsAdded(Cart cart);
 
@@ -31,8 +30,7 @@ public interface CartDao {
     @Delete("delete from carts where id = #{id};")
     int delete(int id);
 
-    @Insert("insert into carts(fid,flower,amount,uid) " +
-            "values(#{fid},#{flower},1,#{uid});")
+    @Insert("insert into carts(fid,flower,amount,uid) values(#{fid},#{flower},1,#{uid});")
     int add(Cart cart);
 
 }

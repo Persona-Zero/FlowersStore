@@ -53,5 +53,4 @@ public class OrderServiceImpl implements OrderService {
         return orderdao.queryByUid(uid);
     }
 
-
 }

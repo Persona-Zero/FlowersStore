@@ -3,7 +3,7 @@
     <el-container>
       <el-header>
         <div><b style="float: left;margin-top: -20px"><h2>花卉销售平台</h2></b>
-<!--          <b>用户操作台</b>-->
+          <!--<b>用户操作台</b>-->
           <el-button class="logout" type="warning" @click="logout">退出</el-button>
         </div>
       </el-header>
@@ -18,8 +18,6 @@
             text-color="#fff"
             active-text-color="#ffd04b"
           >
-
-
             <el-menu-item index="goods">
               <i class="el-icon-menu"></i>
               商品列表
@@ -39,11 +37,6 @@
               <i class="el-icon-document"></i>
               <span>个人信息</span>
             </el-menu-item>
-
-<!--            <el-menu-item index="unionRule">-->
-<!--              <i class="el-icon-document"></i>-->
-<!--              <span>工会办法</span>-->
-<!--            </el-menu-item>-->
           </el-menu>
         </el-aside>
         <el-container>
@@ -146,7 +139,7 @@
   }
 
   .el-header {
-    background-color: yellow;
+    background-color: #7CFA28;
   }
 
   .el-aside {

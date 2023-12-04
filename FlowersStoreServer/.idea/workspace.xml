@@ -4,11 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="641cd0a0-fbeb-4e15-87f4-767732eefcc2" name="Changes" comment="default messages" />
+    <list default="true" id="641cd0a0-fbeb-4e15-87f4-767732eefcc2" name="Changes" comment="default messages">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlowersStoreClient/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FlowersStoreClient/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlowersStoreClient/src/components/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../FlowersStoreClient/src/components/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlowersStoreClient/src/components/user/UserHome.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../FlowersStoreClient/src/components/user/UserHome.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlowersStoreClient/src/components/user/menu/UpdateInfo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../FlowersStoreClient/src/components/user/menu/UpdateInfo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cl/flowersStore/dao/CartDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cl/flowersStore/dao/CartDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cl/flowersStore/dao/OrderDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cl/flowersStore/dao/OrderDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cl/flowersStore/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cl/flowersStore/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cl/flowersStore/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cl/flowersStore/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fsdb.sql" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mybatis-mapper" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -25,9 +44,10 @@
     <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="228xiWvWwmHuOxC3Z3F9cJaOrSn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -39,7 +59,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../IDEA/BookManager" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -52,17 +72,6 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FlowersStoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="FlowersStoreServer" />
       <extension name="coverage">
@@ -112,7 +121,8 @@
       <workItem from="1701587216607" duration="390000" />
       <workItem from="1701587660340" duration="1704000" />
       <workItem from="1701599145295" duration="1819000" />
-      <workItem from="1701601255179" duration="2146000" />
+      <workItem from="1701601255179" duration="5419000" />
+      <workItem from="1701679179367" duration="4598000" />
     </task>
     <task id="LOCAL-00001" summary="Server: default messages">
       <created>1701601509225</created>
@@ -135,7 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701602159014</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="default messages">
+      <created>1701603623873</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701603623873</updated>
+    </task>
+    <task id="LOCAL-00005" summary="default messages">
+      <created>1701603672638</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701603672638</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
